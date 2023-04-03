@@ -1,0 +1,113 @@
+header{
+    display: inline-flex;
+    width: 100%;
+    height: 30px;
+    background-color: rgb(36, 34, 34);
+    
+}
+#logo{
+    width: 200px;
+    height: 25px;
+    background-color: red;
+    background-image: url(/immagini/bgiheader.png);
+    background-position:left ;
+    background-size: cover;   
+}
+.box1{
+    display: flex;
+    justify-content: center;
+    background-image: url(/immagini/fotogame/box1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.gioco{
+    border-radius: 2%;
+    background-color: #fff;
+    padding: 6px;
+    width: 400px;
+    margin-top: 20%;
+    margin-bottom: 5%;
+
+display:flex;
+}
+.im{
+    
+    width: 400px;
+    height: 100px;
+    background-image: url(/immagini/fotogame/box1.png);
+    background-position: center;
+    background-size: cover;
+
+}
+.om{
+    margin-left: 1%;
+
+}
+.box2{
+    padding-left: 1%;
+    color: white;
+    background-color:rgb(36, 34, 34);
+}
+.colonna{
+    width: 300px;
+    height: 150px;
+}
+.galleria{
+    
+    background-color: rgb(36, 34, 34);
+}
+.photo{
+    background-image: url(/immagini/lat1.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display:inline-flex;
+    
+ 
+}
+.photo2{
+    background-image: url(/immagini/lat2.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display:inline-flex;
+    
+ 
+}
+.photo3{
+    background-image: url(/immagini/lat3.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display:inline-flex;
+    
+ 
+}
+.photo4{
+    background-image: url(/immagini/lat4.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display:inline-flex;
+    
+ 
+}
+.video{
+    background-image: url(/immagini/guarda.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-bottom: 5%;
+}
+.icn{
+
+    display: inline-block;
+    padding-left: 5%;
+    margin-right: 10%;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
